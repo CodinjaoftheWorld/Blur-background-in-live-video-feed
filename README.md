@@ -11,7 +11,7 @@ Steps to run the codes.
 
 1. You have to setup nodejs project and replace package.json file from this repository in your node project.
 
-2. cd to the blur_background directory and Run ‘node video.js’ from the terminal.
+2. cd to 'Blur-background-in-live-video-feed' directory and Run ‘node video.js’ from the terminal.
 
 3. Open a new terminal at the same the same location and run ‘pyhton codes_blur.py’.
 
