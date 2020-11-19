@@ -20,3 +20,7 @@ Steps to run the codes.
 Output:
 
 A window pops-up, which will capture your webcam feed and show you with blurred background.
+
+
+To know more about tensorflow bodypix please refer this blog:
+https://blog.tensorflow.org/2019/11/updated-bodypix-2.html
