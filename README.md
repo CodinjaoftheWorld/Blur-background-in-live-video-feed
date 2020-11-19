@@ -10,6 +10,7 @@ Steps to run the codes.
 2. cd to the blur_background directory and Run ‘node video.js’ from the terminal.
 3. Open a new terminal at the same the same locaiton and run ‘pyhton codes_blur.py’.
 
+#
 
 Output:
 A window pops-up, whihc will show you with a blur background.
